@@ -1,0 +1,5 @@
+# dev_dependencies
+node_modules
+
+# enviroment_variables
+.env
